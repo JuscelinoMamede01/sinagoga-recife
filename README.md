@@ -6,7 +6,7 @@ Project created for the practice of HTML, CSS, and JS. Developed during the SOFT
 
 ## 👀 
 
-To experience the project in action, access the version [ by clicking here](https://sinagogarecife.vercel.app/).
+To experience the project in action, access the version [ by clicking here](https://juscelinomamede01.github.io/forca-js/).
 
 <img src="https://raw.githubusercontent.com//JuscelinoMamede01/sinagoga-recife/main/img/sinagoga.png" width="100%">
 
