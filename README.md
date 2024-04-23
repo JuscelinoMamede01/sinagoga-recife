@@ -34,8 +34,6 @@ $ cd sinagoga-recife
 
 ---
 
-by Juscelino Mamede 🎸
 
-JOHN 14:6 ✟
 
 
